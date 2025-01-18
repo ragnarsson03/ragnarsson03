@@ -28,6 +28,7 @@
 <a href="https://www.tiktok.com/@fr3derickdp"><img alt="Tiktok" src="https://img.shields.io/badge/Frederick-blue?style=flat-square&logo=tiktok"></a>  
 <a href="samirduran1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-samirduran1000@gmail.com.com-blue?style=flat-square&logo=gmail"></a>  
 
+### My Stats 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ragnarsson03&show_icons=true&theme=radical)
 
 

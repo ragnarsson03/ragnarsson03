@@ -7,7 +7,7 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
-### Technologies
+### Technologies 👨🏻‍💻
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,13 +24,17 @@
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-### Contact Me
+### Contact Me 📞
 <a href="https://www.tiktok.com/@fr3derickdp"><img alt="Tiktok" src="https://img.shields.io/badge/Frederick-blue?style=flat-square&logo=tiktok"></a>  
 <a href="samirduran1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-samirduran1000@gmail.com.com-blue?style=flat-square&logo=gmail"></a>  
 
-### My Stats 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ragnarsson03&show_icons=true&theme=radical)
+### My Stats ⭐
+<div align="center">
+<img alt="ragnarsson03's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ragnarsson03&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarsson03&layout=compact&&langs_count=8"/>
+</div>
 
+### Profile views counter 👁️‍🗨️
+[![Frederick Durán profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ragnarsson03)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragnarsson03&label=Profile%20views&color=0e75b6&style=flat" alt="ragnarsson03" /> </p>
 

@@ -30,10 +30,8 @@
 
 ### My Stats ⭐
 <div align="center">
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <img alt="ragnarsson03's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ragnarsson03&show_icons=true&theme=transparent"/>
-        <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarsson03&layout=pie&langs_count=8&cache_seconds=86400"/>
-    </div>
+    <img alt="ragnarsson03's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ragnarsson03&show_icons=true&theme=transparent"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarsson03&layout=compact&langs_count=8&cache_seconds=86400"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️

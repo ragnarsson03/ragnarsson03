@@ -1,5 +1,5 @@
-<h1>Hello! I'm Frederick Durán <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+# Hello! I'm Frederick Durán <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀
+## Frontend Developer 🎨
 
 ### About Me
 - I am 21 years old and I am from Caracas, Venezuela.
@@ -26,7 +26,7 @@
 
 ### Contact Me 📞
 <a href="https://www.tiktok.com/@fr3derickdp"><img alt="Tiktok" src="https://img.shields.io/badge/Frederick-blue?style=flat-square&logo=tiktok"></a>  
-<a href="samirduran1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-samirduran1000@gmail.com.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="mailto:samirduran1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-samirduran1000@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ### My Stats ⭐
 <div align="center">
@@ -36,5 +36,3 @@
 
 ### Profile views counter 👁️‍🗨️
 [![Frederick Durán profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ragnarsson03)
-
-

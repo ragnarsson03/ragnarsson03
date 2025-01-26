@@ -45,3 +45,7 @@
 
 ### Codeium Streak Badge
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com?repo_name=ragnarsson03%2Fcodeium.vim)
+
+### Perfil Codeium
+[Codeium Profile](https://codeium.com/profile/concurrently-guiltless-terrapin-96789)
+

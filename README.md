@@ -44,4 +44,4 @@
 ---
 
 ### Codeium Streak Badge
-[![streak](https://codeium.com/badges/v2/user/concurrently-guiltless-terrapin-96789/streak)](
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com?repo_name=ragnarsson03%2Fcodeium.vim)

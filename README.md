@@ -37,5 +37,11 @@
 ### Profile views counter 👁️‍🗨️
 [![Frederick Durán profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ragnarsson03)
 
+<p align="center">
+  <img width="300" alt="Codeium" src="codeium.svg"/>
+</p>
+
+---
+
 ### Codeium Streak Badge
 [![streak](https://codeium.com/badges/v2/user/concurrently-guiltless-terrapin-96789/streak)](

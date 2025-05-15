@@ -28,11 +28,6 @@
 <a href="https://www.tiktok.com/@fr3derickdp"><img alt="Tiktok" src="https://img.shields.io/badge/Frederick-blue?style=flat-square&logo=tiktok"></a>  
 <a href="mailto:samirduran1000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-samirduran1000@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-### My Stats ⭐
-<div align="center">
-    <img alt="ragnarsson03's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ragnarsson03&show_icons=true&theme=transparent"/>
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarsson03&layout=compact&langs_count=8&cache_seconds=86400"/>
-</div>
 
 ### Profile views counter 👁️‍🗨️
 [![Frederick Durán profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ragnarsson03)
